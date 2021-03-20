@@ -12,6 +12,7 @@
 		2DF9B3462605D68100C01A2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DF9B3452605D68000C01A2C /* Assets.xcassets */; };
 		2DF9B3492605D68100C01A2C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DF9B3482605D68100C01A2C /* Preview Assets.xcassets */; };
 		2DF9B3522605DFCB00C01A2C /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF9B3512605DFCB00C01A2C /* CircleImage.swift */; };
+		2DF9B3552605E09300C01A2C /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF9B3542605E09300C01A2C /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2DF9B3482605D68100C01A2C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2DF9B34A2605D68100C01A2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2DF9B3512605DFCB00C01A2C /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		2DF9B3542605E09300C01A2C /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2DF9B34A2605D68100C01A2C /* Info.plist */,
 				2DF9B3472605D68100C01A2C /* Preview Content */,
 				2DF9B3512605DFCB00C01A2C /* CircleImage.swift */,
+				2DF9B3542605E09300C01A2C /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2DF9B3442605D68000C01A2C /* ContentView.swift in Sources */,
+				2DF9B3552605E09300C01A2C /* MapView.swift in Sources */,
 				2DF9B3422605D68000C01A2C /* LandmarksApp.swift in Sources */,
 				2DF9B3522605DFCB00C01A2C /* CircleImage.swift in Sources */,
 			);
