@@ -1,8 +1,8 @@
 //
 //  LandmarkList.swift
-//  Landmarks
+//  WatchLandmarks Extension
 //
-//  Created by blendthink on 2021/03/22.
+//  Created by blendthink on 2021/03/30.
 //
 
 import SwiftUI
@@ -30,7 +30,6 @@ struct LandmarkList: View {
                 }
             }
             .navigationTitle("Landmarks")
-            .frame(minWidth: 300)
         }
     }
 }
